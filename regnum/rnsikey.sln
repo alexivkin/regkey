@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mk", "mk\mk.vcproj", "{5CC46C08-F8F7-4953-808E-477E14B9D30B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rk", "rk\rk.vcproj", "{A28441BB-6499-4BAA-9785-0CCEE685D5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5CC46C08-F8F7-4953-808E-477E14B9D30B}.Debug.ActiveCfg = Debug|Win32
+		{5CC46C08-F8F7-4953-808E-477E14B9D30B}.Debug.Build.0 = Debug|Win32
+		{5CC46C08-F8F7-4953-808E-477E14B9D30B}.Release.ActiveCfg = Release|Win32
+		{5CC46C08-F8F7-4953-808E-477E14B9D30B}.Release.Build.0 = Release|Win32
+		{A28441BB-6499-4BAA-9785-0CCEE685D5CE}.Debug.ActiveCfg = Debug|Win32
+		{A28441BB-6499-4BAA-9785-0CCEE685D5CE}.Debug.Build.0 = Debug|Win32
+		{A28441BB-6499-4BAA-9785-0CCEE685D5CE}.Release.ActiveCfg = Release|Win32
+		{A28441BB-6499-4BAA-9785-0CCEE685D5CE}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
